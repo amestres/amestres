@@ -5,5 +5,5 @@
 - 👯 I'm looking for companies that work with VueJs (html, css, javascript) and some php for the back
 - 💬 Ask me about anything!
 - 📫 How to reach me:  
-                https://www.linkedin.com/in/adri%C3%A0-mestres-herrero-966514163/
-                adriamestresh@gmail.com
+                - https://www.linkedin.com/in/adri%C3%A0-mestres-herrero-966514163/
+                - adriamestresh@gmail.com
